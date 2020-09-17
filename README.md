@@ -11,5 +11,5 @@ Repository about Lab on Math Application and Statistics - Summer 2020
 4. Linear Regression.
 5. Document Analysis.
 ## Report
-- All reports and source code were written by Quang-Tuan Vo, student of HCMUS.  
+- All reports and source code were written by Quang-Tuan VoTran, student of HCMUS.  
 - All reports in Vietnamese.
